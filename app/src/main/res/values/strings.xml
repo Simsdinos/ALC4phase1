@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ALC 4 phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview_holder">Welcome to ALC 4.0</string>
+    <string name="btn_About">ABOUT ALC</string>
+    <string name="btn_Profile">MY PROFILE</string>
+    <string name="title_activity_about">ABOUT ALC</string>
+    <string name="title_activity_profile">MY PROFILE</string>
+    <string name="track">Track</string>
+    <string name="Country">Country</string>
+    <string name="Email">Email</string>
+    <string name="Phone_number">Phone number</string>
+    <string name="username">Slack username</string>
+    <string name="name">Dennis Simiyu</string>
+    <string name="Slack_username">Madmax</string>
+    <string name="track_name">Android</string>
+    <string name="Mycountry">Kenya</string>
+    <string name="MyEmail">simsdino1@gmail.com</string>
+    <string name="mynumber">0799688638</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+
+</resources>
